@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**tiagossylva/tiagossylva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá eu sou Tiago Silva recentemente conclui o curso Técnico em Desenvolvimento de Sistemas Pela Escola Técnica Estadual Ariano Vilar Suassuna - ETEAVS. Sou fascinado por tecnologia e videogame. Atualmente não trabalho na area de tecnologia, sou Assistente Administrativo porém continuo à estudar por conta própria  e atualmente estou estudando estou fazendo um Bootcamp na DIO: Java/angular fullstack. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
