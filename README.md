@@ -1,7 +1,7 @@
-### Hi there 👋
+### Tiago Silva👋
 
 
-Olá eu sou Tiago Silva recentemente conclui o curso Técnico em Desenvolvimento de Sistemas Pela Escola Técnica Estadual Ariano Vilar Suassuna - ETEAVS. Sou fascinado por tecnologia e videogame. Atualmente não trabalho na area de tecnologia, sou Assistente Administrativo porém continuo à estudar por conta própria  e atualmente estou estudando estou fazendo um Bootcamp na DIO: Java/angular fullstack. 
+Olá eu sou Tiago Silva sou Técnico em Desenvolvimento de Sistemas. Sou fascinado por tecnologia e videogame. Meu objetivo é trabalhar na área de tecnologia. Atualmente estou fazendo um Bootcamp na DIO:  fullstack Java+angular. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
